@@ -24,6 +24,6 @@ bin/
 
 ### VS Code ###
 .vscode/
-
+application.propeties
 ### Mac OS ###
 .DS_Store
